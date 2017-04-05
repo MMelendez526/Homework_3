@@ -4,7 +4,7 @@ Problem #1 - Plotting Experimental Data.
 
  The problem asks to write a code that reads the data contained in a .txt file and make a density plot of the values. 
  
- The graph is  included in the repository and is titled 'silicon_density.eps'. 
+ The graph is included in the repository and is titled 'silicon_density.eps'. 
  
 Problem #2 - The Quadratic Equation.
 
