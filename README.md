@@ -33,4 +33,10 @@ Problem #3 - Heat Capacity of a Solid.
  
  
 Problem #4 - Numerical Integration
- This problem
+ This problem gives an integral and we are asked to calculate it out for certain endpoints, and we are allowed to pick the method we would like to use for integration. We are then asked to make a graph of our integral as a function of x. 
+ 
+ The answers are as follows:
+ 
+ When I print out the values of E(x) I get, along with the graph, the following: [0.0, 0.1003, 0.2026, 0.3091, 0.4222, 0.5447, 0.6802, 0.833, 1.0087, 1.215, 1.4622, 1.7641, 2.1404, 2.6191, 3.2402, 4.0624, 5.1728, 6.7027, 8.8535, 11.9382, 16.4517, 23.1896, 33.4516, 49.3973, 74.6757, 115.5603, 183.0238, 296.5976, 491.6664, 833.4865, 1444.5801].
+ 
+ The graph is included in the repository and is titled 'E(x).eps'.
